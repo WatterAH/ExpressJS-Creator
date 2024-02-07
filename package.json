@@ -14,6 +14,11 @@
     "project template",
     "express"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WatterAH/ExpressJS-Creator.git"
+  },
+  "homepage": "https://github.com/WatterAH/ExpressJS-Creator#readme",
   "author": "WatterAH",
   "license": "MIT",
   "dependencies": {
