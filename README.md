@@ -14,13 +14,15 @@ ExpressJS Creator is a command-line tool designed to streamline the process of s
 
 ExpressJS Creator provides the following templates:
 
+- **Vanilla**: Vanilla template provides a simple structure to get started with Express. Ideal for those who prefer a lightweight setup or want to build their app from scratch.
+
 - **Basic**: This template is ideal for simple projects where you only need to serve static HTML files with Express. It provides a basic structure to set up an Express server and serve static files like HTML, CSS, images, etc.
 
-- **EJS**: The EJS template is designed for projects that need to render dynamic views using Express along with the EJS template engine. With this template, you can create dynamic views using EJS syntax to generate dynamic HTML based on server data.
+- **EJS**: EJS template is designed for projects that need to render dynamic views using Express along with the EJS template engine. With this template, you can create dynamic views using EJS syntax to generate dynamic HTML based on server data.
 
 - **API**: This template is perfect for developing a RESTful API with Express. It provides a basic structure to define and handle HTTP endpoints for CRUD (Create, Read, Update, Delete) operations on data resources.
 
-- **WebSocket**: The WebSocket template is useful for building real-time applications that require bidirectional communication between the server and the client. It uses Express along with Socket.IO to enable real-time communication via WebSockets. It's perfect for applications like real-time chats, multiplayer games, real-time dashboards, and more.
+- **WebSocket**: The WebSocket template is useful for building real-time applications that require bidirectional communication between the server and the client. It uses Express along with Socket.IO to enable real-time communication via WebSockets.
 
 ## Usage
 
