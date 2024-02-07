@@ -1,0 +1,17 @@
+.env
+node_modules
+
+# build & output
+dist/
+build/
+out/
+
+# log
+*.log
+*.tmp
+npm-debug.log
+yarn-error.log
+
+# Editor directories and files
+.vscode/
+.idea/
