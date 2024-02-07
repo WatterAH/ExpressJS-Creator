@@ -1,6 +1,6 @@
 {
   "name": "expressjs-creator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Command line tool to create Express.js applications with different templates.",
   "type": "module",
   "main": "index.js",

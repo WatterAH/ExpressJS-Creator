@@ -13,6 +13,7 @@ export const propmtUser = () => {
         name: "template",
         message: "Choose a template:",
         choices: [
+          "\x1b[97mVanilla\x1b[39m",
           "\x1B[90mBasic\x1B[39m",
           "\x1B[32mEJS\x1B[39m",
           "\x1B[33mApi\x1B[39m",
